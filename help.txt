@@ -1,0 +1,11 @@
+Git:
+
+Type git init in cmd to start git
+
+type git status to see the added files
+
+type 'git add filename' to add it
+
+make file .gitignore to ignore files
+
+type 'git commit -m 'message here'  ' to make a commit with a message to it. 
