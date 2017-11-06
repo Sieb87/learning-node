@@ -8,4 +8,6 @@ type 'git add filename' to add it
 
 make file .gitignore to ignore files
 
-type 'git commit -m 'message here'  ' to make a commit with a message to it. 
+type 'git commit -m 'message here'  ' to make a commit with a message to it.
+
+git push -u origin master
